@@ -1,4 +1,4 @@
-# DevOps Linux Fundamentals - Day 7 Machine Test
+# DevOps Linux Fundamentals - Day 11 Machine Test
 
 Hands-on Linux test covering package management, storage analysis, mounting and filesystems, backup and compression, and a production troubleshooting challenge, followed by theory questions.
 
